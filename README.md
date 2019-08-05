@@ -6,3 +6,5 @@
 
 預覽連結如下：
 https://yuuttoo.github.io/Bitcoin-Ticker/
+
+因尚未架在公開伺服器上  只能在本地伺服器啟用服務
